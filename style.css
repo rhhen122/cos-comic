@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Asset&display=swap");
+#title {
+  text-align: center;
+  font-size: large;
+  font-family: "Asset", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+
+#main {
+  font-size: large;
+  padding: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: white;
+}
+
+#info {
+  color: black !important;
+  margin: 5px  auto;
+  width: 780px;
+  font-size: 9px;
+  width: 600px 500px;
+  font-family: "Asset", serif;
+  padding: 20px;
+  background: whitesmoke;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: #222222;
+  border-radius: 12px;
+  -moz-border-radius: 12px;
+}
+
+.about {
+  font-size: large !important;
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+#comic {
+  width: 780px;
+  margin: 5px  auto;
+  font-family: "Asset", serif;
+  padding: 20px;
+  background: whitesmoke;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: #222222;
+  border-radius: 12px;
+  -moz-border-radius: 12px;
+}
+
+#comic nav {
+  padding: 20px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+#comic nav button {
+  padding: 5px 10px;
+  background-color: #222222;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  border: #222222;
+  border-radius: 5px;
+}
+
+#comic img {
+  background-color: #222222;
+  border: #222222;
+  border-style: solid;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+#comic h1 {
+  font-family: "Asset", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+
+body {
+  background-color: #96A8C8;
+}
+
+a {
+  color: black;
+  text-decoration: wavy underline;
+}
+
+a:hover {
+  color: grey;
+  text-decoration: underline;
+}
+
+footer {
+  float: right;
+  color: white;
+  margin: 5px  auto;
+  width: 780px;
+  padding: 20px;
+}
+
+#sub-text {
+  font-size: small;
+}
